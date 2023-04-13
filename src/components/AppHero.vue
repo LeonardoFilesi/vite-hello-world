@@ -16,7 +16,7 @@ export default {
     </div>
 </template>
 
-<style>
+<style scoped>
 .jumbo-background {
     background-color:  rgb(44, 82, 59);
     text-align: center;
